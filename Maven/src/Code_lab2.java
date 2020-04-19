@@ -8,3 +8,4 @@ public class Code_lab2 {
 	}
 	
 }
+/////
